@@ -1,5 +1,5 @@
 日本語
-(https://taikounido/jp.html)
+(https://taikounidon.github.io/Taikounidon/jp.html)
 
 English
-(https://taikounidon/en.html)
+(https://taikounidon.github.io/Taikounidon/en.html)
